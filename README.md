@@ -17,10 +17,12 @@ A sleek and modern cross-platform shopping app built with **Flutter**, designed 
 
 ## 📸 Screenshots
 
-<img src="assets/screenshots/intro_page.png" width="100">
-<img src="assets/screenshots/home_page.png" width="100">
-<img src="assets/screenshots/shop_item.png" width="100">
-<img src="assets/screenshots/cart_page.png" width="100">
+<div>
+  <img src="assets/screenshots/intro_page.png" width="150" alt="Intro Page" style="margin: 10px;">
+  <img src="assets/screenshots/home_page.png" width="150" alt="Home Page" style="margin: 10px;">
+  <img src="assets/screenshots/shop_item.png" width="150" alt="Shop Item" style="margin: 10px;">
+  <img src="assets/screenshots/cart_page.png" width="150" alt="Cart Page" style="margin: 10px;">
+</div>
 
 ---
 
